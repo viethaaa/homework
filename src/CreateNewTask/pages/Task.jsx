@@ -11,7 +11,7 @@ export function Task(props) {
                 <div><span>Creator</span>: {props.creator}</div>
                 <div><span>Status</span>: {props.status}</div>
                 <div><span>Description</span>: {props.description}</div>
-            </div>
+            </div> 
         </Link>
         
     )
