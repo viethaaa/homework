@@ -1,0 +1,10 @@
+.body {
+    display: flex;
+    height: 570px;
+    width: 1024px;
+}
+
+.menu {
+    background-color: #F88F14;
+    height: 100%;
+}

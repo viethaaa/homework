@@ -1,0 +1,27 @@
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #fff;
+}
+
+li a:hover {
+    cursor: pointer;
+    color: #675BF1;
+}
+
+li a:focus {
+    cursor: pointer;
+    color: #675BF1;
+}
+
+li:hover {
+    border-bottom: 1px solid #675BF1;
+}
+
